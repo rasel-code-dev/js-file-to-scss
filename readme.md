@@ -4,7 +4,7 @@
 
 ```js
 module.exports = {
-  out: "scss",
+  out: "scss", // output directory
 
   colors: {
     transparent: 'transparent',
@@ -14,3 +14,8 @@ module.exports = {
   }
 
 }```
+
+run npm start
+
+### in this above code create colors.scss file inside scss directiory
+
