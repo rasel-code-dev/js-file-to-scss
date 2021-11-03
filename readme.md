@@ -13,7 +13,7 @@ module.exports = {
     white: '#fff',
   }
 
-}```
+}````
 
 run npm start
 
