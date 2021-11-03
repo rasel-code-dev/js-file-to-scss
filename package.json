@@ -1,0 +1,27 @@
+{
+  "name": "js-to-scss",
+  "version": "1.0.0",
+  "description": "Converts js objects, like configuration ones, in scss variables ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -w makeScss/variables.js makeScss/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "sass",
+    "javascript",
+    "scss",
+    "convert"
+  ],
+  "author": "Rasel Mahmud",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "js-to-scss": "^1.0.0"
+  }
+}
